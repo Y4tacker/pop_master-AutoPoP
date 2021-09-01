@@ -1,5 +1,7 @@
 # pop_master-AutoPoP
-强网杯十六万行代码自动获得POP链
+强网杯十六万行代码自动生成POP链
+## Description
+利用PHP动态特性正向自动查找可利用的链路
 
 ## Usage
 
